@@ -57,13 +57,13 @@
 ### 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DevSGithub2&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevSGithub2&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=DevSGithub2&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevSGithub2&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
 </div>
 
 <div align="center">
   <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DevSGithub2&theme=tokyonight&hide_border=true" width="96%" />
+  <img src="https://streak-stats.demolab.com/?user=DevSGithub2&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="96%" />
 </div>
 
 ---
