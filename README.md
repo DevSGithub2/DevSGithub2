@@ -4,7 +4,7 @@
 
 <br/>
 
-<a href="https://linkedin.com/in/devsagar">
+<a href="https://www.linkedin.com/in/dev-sagar-3913871a1/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 <a href="mailto:devsagar887@gmail.com">
