@@ -1,72 +1,37 @@
 <div align="center">
-  <h1 align="center">Hi 👋, I'm Dev Sagar</h1>
-  <h3>Full-Stack Engineer & AI Tooling Builder</h3>
+  <!-- Modern Animated SVG Header -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,13,24&height=180&section=header&text=Dev%20Sagar&fontSize=42&fontAlignY=38&fontColor=ffffff&desc=Full-Stack%20Engineer%20%7C%20AI%20Tooling%20Builder&descFontSize=18&descAlignY=60&descAlign=50" width="100%" alt="Header" />
 
-  <p align="center">
-    <a href="https://linkedin.com/in/devsagar"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-    <a href="mailto:devsagar887@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  </p>
-</div>
-
----
-
-### 🚀 About Me
-
-- 🔭 Currently building full-stack web applications and AI-integrated developer tools.
-- ⚡ Focused on **Next.js, TypeScript, Python backend services, and AI APIs**.
-- 🛠️ Actively exploring distributed backend systems, real-time data streaming, and autonomous agents.
-- 💬 Ask me about **Next.js, React, Node.js, Python, or API architectures**.
-
----
-
-### 🛠️ Tech Stack & Tooling
-
-<div align="center">
-  <!-- Languages -->
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <br /><br />
-  <!-- Frameworks & Frontend -->
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
-  <br /><br />
-  <!-- Tools & Cloud -->
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-</div>
-
----
-
-### 📌 Featured Projects
-
-| Project | Description | Tech Stack |
-| :--- | :--- | :--- |
-| **DEVPULSE.AI** | AI-driven code vulnerability scanner, explanation engine, and code optimizer. | `Next.js` `TypeScript` `Clerk` `AI APIs` |
-| **PrepMind AI** | Automated technical assessment platform generating role-specific interview environments. | `Node.js` `JavaScript` `Tailwind CSS` |
-| **Binance Signal Bot** | Real-time cryptocurrency candlestick analysis and automated signal notification system. | `Python` `APIs` `Automation` |
-
----
-
-### 📊 GitHub Analytics
-
-<div align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=DevSGithub2&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=DevSGithub2&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
-</div>
-
-<div align="center">
   <br />
-  <img src="https://streak-stats.demolab.com/?user=DevSGithub2&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="96%" />
+
+  <!-- Interactive Dynamic Typing Effect -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&pause=1000&color=61AFEF&center=true&vCenter=true&width=550&lines=Building+modern+full-stack+applications;Crafting+AI-powered+developer+tools;Architecting+scalable+backend+systems;Next.js+%E2%80%A2+TypeScript+%E2%80%A2+Python+%E2%80%A2+Copilot" alt="Typing SVG" />
+  </a>
+
+  <br /><br />
+
+  <!-- Social Connect Badges -->
+  <a href="https://linkedin.com/in/devsagar" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  &nbsp;
+  <a href="mailto:devsagar887@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Status-Shipping_Code-00c853?style=flat-square" alt="Status" />
 </div>
 
+<br />
 
-<div align="center">
-  <sub>Designed with ❤️ by Dev Sagar</sub>
-</div>
+---
+
+### 👨‍💻 Engineering Snapshot
+
+```yaml
+engineer: Dev Sagar
+core_stack: [Next.js, TypeScript, Python, Node.js]
+focus_areas: Full-Stack Architectures, AI Developer Tooling, Cloud Backends
+current_status: Building intelligent web apps & real-time automated workflows
+editor: VS Code + GitHub Copilot Pro
